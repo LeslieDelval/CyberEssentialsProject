@@ -12,6 +12,7 @@ Praneeth Reddy Gunna
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ShinyHunter.py is the game itself
+
 script.py is the bruteforce script -- run using python script.py 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
