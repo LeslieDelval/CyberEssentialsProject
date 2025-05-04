@@ -10,6 +10,10 @@ Shipra Sinha
 Praneeth Reddy Gunna
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ShinyHunter.py is the game itself
+script.py is the bruteforce script
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 🎮 Why Shiny Hunter?
 Shiny Hunter is an HTB (Hack The Box) challenge disguised as a Pokémon-themed terminal game. The goal is to capture a shiny Pokémon and retrieve a hidden flag.
