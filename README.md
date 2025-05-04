@@ -9,6 +9,8 @@ Shipra Sinha
 
 Praneeth Reddy Gunna
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 🎮 Why Shiny Hunter?
 Shiny Hunter is an HTB (Hack The Box) challenge disguised as a Pokémon-themed terminal game. The goal is to capture a shiny Pokémon and retrieve a hidden flag.
 
@@ -21,6 +23,8 @@ Reasons for choosing this project:
 🎯 Clear Objective: Catch a shiny Pokémon to get the flag.
 
 🔐 Vulnerabilities: Despite using random, the game logic is predictable.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Uses Python’s random module (predictable output).
 
@@ -42,6 +46,8 @@ Based on mathematical knowledge of the game logic.
 Efficient: Only needs partial knowledge (e.g., MAC address, time).
 
 Works without direct access to game internals.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 🕹️ Game Components
 Generates a random MAC address.
@@ -72,6 +78,8 @@ Trainer ID
 Secret ID
 
 Personal ID
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 🛠️ Brute Force Strategy
 Game seed is time-based and sensitive to system clock.
